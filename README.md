@@ -2,6 +2,7 @@
 
        Postivos       |      Negativos
 :--------------------:|:-------------------:
+PHP 7                 |
 1% Código, 99% Zoeira |           BabySteps
 Música do Safadão     |         Safadômetro
 Local Rede+ é massa   |   Projetor amarrado
